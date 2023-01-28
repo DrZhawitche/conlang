@@ -1,4 +1,4 @@
-#+title: [name of langauge] documentation
+#+title: [name of language] documentation
 #+DESCRIPTION: Official documentation for the ----- language
 #+AUTHOR:  Dr_Zhawitche
 
@@ -50,4 +50,4 @@ This language is a project I work on in my free time. It is meant to be easy to 
 [[~/conlang/images/other-consonants-chart.png]]
 
 *** Individual letter pronounciation
-All consonants (when speaking aboout an individual letter) are pronounced by adding an "i" to their end. So, for exampple, b would be "bi", j would be "ʐi", etc... As for vowels, they are pronounced shortly, without adding any consonant to their end (unlike English where "a" is pronounced more like "ay"). I hope this makes sense.
+All consonants (when speaking about an individual letter) are pronounced by adding an "i" to their end. So, for exampple, b would be "bi", j would be "ʐi", etc... As for vowels, they are pronounced shortly, without adding any consonant to their end (unlike English where "a" is pronounced more like "ay"). I hope this makes sense.
