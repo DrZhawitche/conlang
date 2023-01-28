@@ -1,0 +1,53 @@
+#+title: [name of langauge] documentation
+#+DESCRIPTION: Official documentation for the ----- language
+#+AUTHOR:  Dr_Zhawitche
+
+#+OPTIONS: toc:9
+* Table of contents :toc:
+- [[#license][License]]
+- [[#introduction][Introduction]]
+- [[#language-documentation][Language documentation]]
+  - [[#1-phonetics][1. Phonetics]]
+
+* License
+This project is licensed under the GNU Free Documentation License (fdl). Check [[https://www.gnu.org/licenses/fdl-1.3.en.html][this link]] for more information.
+
+* Introduction
+This language is a project I work on in my free time. It is meant to be easy to write and learn, and should thus make for a great way to communicate secretly. I have taken inspiration from languages I have knowledge of (English, French, Arabic, Spanish, Farsi and German) and have incorporated the elements I like from each one, and dropped the ones that displease me.
+
+
+* Language documentation
+** 1. Phonetics
+*** 1.1 Vowels
+[name of language] has 4 vowels, which are:
+1. a (phonetic: a)
+2. u (phonetic: u)
+3. i (phonetic: i)
+4. o (phonetic: ɵ)
+[[~/conlang/images/vowel-chart.png]]
+
+*** Consonnants
+[name of language] has 18 consonants, which are:
+1. b (phonetic: b)
+2. d (phonetic: d)
+3. f (phonetic: f)
+4. g (phonetic: g)
+5. h (phonetic: ɦ)
+6. j (phonetic: ʐ)
+7. k (phonetic: k)
+8. l (phonetic: l)
+9. m (phonetic: m)
+10. n (phonetic: n)
+11. p (phonetic: p)
+12. r (phonetic: ɾ) (a shortly rolled r)
+13. s (phonetic: s)
+14. t (phonetic: t)
+15. w (phonetic: W)
+16. x (phonetic: ʃ)
+17. y (phonetic: j) (side note: can *never* be used as a vowel)
+18. z (phonetic: z)
+[[~/conlang/images/pulmonic-consonants-chart.png]]
+[[~/conlang/images/other-consonants-chart.png]]
+
+*** Individual letter pronounciation
+All consonants (when speaking aboout an individual letter) are pronounced by adding an "i" to their end. So, for exampple, b would be "bi", j would be "ʐi", etc... As for vowels, they are pronounced shortly, without adding any consonant to their end (unlike English where "a" is pronounced more like "ay"). I hope this makes sense.
