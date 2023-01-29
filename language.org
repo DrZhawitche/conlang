@@ -91,7 +91,7 @@ For example:
 
 /This means that all nouns will end with -a and all adjecctives with -o./
 
-/Adjectives always ​*foll​ow* the noun./
+/Adjectives always ​**foll​ow** the noun./
 
 **** 2.2.2 Verbal tenses and moods
 
