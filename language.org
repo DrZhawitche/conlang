@@ -17,7 +17,7 @@
       - [[1.1.2 Long vowels]]
     - [1.2 Consonants]]
   - [[2. Grammatical structure]]
-    - [[2.1 Word order]]
+    - [[#21-word-order][2.1 Word order]]
 
 * License
 This project is licensed under the GNU Free Documentation License (fdl). Check [[https://www.gnu.org/licenses/fdl-1.3.en.html][this link]] for more information.
