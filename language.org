@@ -3,9 +3,10 @@
 #+AUTHOR:  Dr_Zhawitche
 #+OPTIONS:
 
-* Todo list - [0/2]
+* Todo list - [0/3]
 1. [ ] Give the language a name!!!
-2. [ ] Add an example in [[#224-word-order][2.2.4 Word order]]
+2. [ ] Add an example in [[2.4 Word order]]
+3. [ ] Add an example in [[2.3 Defineteness]]
 
 * Table of contents
 - [[#license][License]]
@@ -105,3 +106,17 @@ In [language name], nouns are by default indefinite. To make them definite, an a
 *** 2.4 Word order
 In order to keep this language relatively easy to learn and grasp, I choose the word order to be S-V-O (subject-verb-object).
 For example:
+
+** 3. Lexicon
+*** 3.1 Pronouns
+
+| *Word* | *Class* | *Definition* |
+|--------+---------+--------------|
+|        |         |              |
+|        |         |              |
+|        |         |              |
+|        |         |              |
+
+
+*** 3.2 Verbs
+*** 3.3 Full lexicon
