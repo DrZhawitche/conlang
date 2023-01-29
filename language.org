@@ -11,7 +11,7 @@
 - [[#license][License]]
 - [[#introduction][Introduction]]
 - [[#language-documentation][Language documentation]]
-  - [[#phonology/orthography][Phonology/Orthography]]
+  - [[#phonologyorthography][Phonology/Orthography]]
     - [[1.1 Vowels]]
       - [[1.1.1 Short vowels]]
       - [[1.1.2 Long vowels]]
