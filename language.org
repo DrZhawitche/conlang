@@ -11,11 +11,11 @@
 - [[#license][License]]
 - [[#introduction][Introduction]]
 - [[#language-documentation][Language documentation]]
-  - [[1. Phonology/Orthography]]
+  - [[Phonology/Orthography]]
     - [[1.1 Vowels]]
       - [[1.1.1 Short vowels]]
       - [[1.1.2 Long vowels]]
-    - [[1.2 Consonants]]
+    - [[1.2 Consonants]
   - [[2. Grammatical structure]]
     - [[2.1 Word order]]
 
@@ -27,7 +27,7 @@ This language is a project I work on in my free time. It is meant to be easy to 
 
 
 * Language documentation
-** 1. Phonology/Orthography
+** Phonology/Orthography
 *** 1.1 Vowels
 **** 1.1.1 Short vowels
 [name of language] has 4 vowels, which are:
