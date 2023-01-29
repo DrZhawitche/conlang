@@ -11,7 +11,7 @@
     - [[1.1 Vowels]]
       - [[1.1.1 Short vowels]]
       - [[1.1.2 Long vowels]]
-
+    - [[1.2 Consonants]]
   - [[#2][2.]]
 
 * License
@@ -41,7 +41,7 @@ Aswell as their longer counterparts:
 
 I have deicded to make the distinction between the two types of vowels, so there is no ambiguity concerning the pronounciation of a word.
 
-*** Consonnants
+*** 1.2 Consonants
 [name of language] has 18 consonants, which are:
 1. b (phonetic: b)
 2. d (phonetic: d)
