@@ -110,16 +110,15 @@ For example:
 ** 3. Syllable strucutre
 [Name of language] will follow a (C)(C)V(C)(C) structure
 
-| *Sounds*                      |
-|-------------------------------|
-| *Onset*                       |
-|-------------------------------|
-| *Coda*                        |
-|-------------------------------|
-| b d f ʐ k l m n s t ɾ w ʃ j z |
-|-------------------------------|
-| p ɦ g                         |
-|                               |
+| *Sounds*        |        |
+|-----------------+--------|
+| *Onset*         | *Coda* |
+|-----------------+--------|
+| b d f ʐ k l m n | p ɦ g  |
+| s t ɾ w ʃ j z   |        |
+| p ɦ g           |        |
+|-----------------+--------|
+
 
 ** 4. Lexicon
 *** 4.1 Pronouns
