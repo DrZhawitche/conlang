@@ -107,8 +107,22 @@ In [language name], nouns are by default indefinite. To make them definite, an a
 In order to keep this language relatively easy to learn and grasp, I choose the word order to be S-V-O (subject-verb-object).
 For example:
 
-** 3. Lexicon
-*** 3.1 Pronouns
+** 3. Syllable strucutre
+[Name of language] will follow a (C)(C)V(C)(C) structure
+
+| *Sounds*                      |
+|-------------------------------|
+| *Onset*                       |
+|-------------------------------|
+| *Coda*                        |
+|-------------------------------|
+| b d f ʐ k l m n s t ɾ w ʃ j z |
+|-------------------------------|
+| p ɦ g                         |
+|                               |
+
+** 4. Lexicon
+*** 4.1 Pronouns
 
 | *Word* | *Class* | *Definition* |
 |--------+---------+--------------|
@@ -118,5 +132,5 @@ For example:
 |        |         |              |
 
 
-*** 3.2 Verbs
-*** 3.3 Full lexicon
+*** 4.2 Verbs
+*** 4.3 Full lexicon
