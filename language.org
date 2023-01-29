@@ -47,7 +47,7 @@ Aswell as their longer counterparts:
 3. ī
 4. ō
 
-I have deicded to make the distinction between the two types of vowels, so there is no ambiguity concerning the pronounciation of a word.
+/I have deicded to make the distinction between the two types of vowels, so there is no ambiguity concerning the pronounciation of a word./
 
 *** 1.2 Consonants
 [name of language] has 18 consonants, which are:
@@ -90,6 +90,7 @@ For example:
 | *Plural*   | -an       | -ajn     |   | *Plural*    | -on       | -ojn     |
 
 /This means that all nouns will end with -a and all adjecctives with -o./
+
 /Adjectives always *follow* the noun./
 
 **** 2.2.2 Verbal tenses and moods
