@@ -62,7 +62,7 @@ I have deicded to make the distinction between the two types of vowels, so there
 17. y (phonetic: j) (side note: can *never* be used as a vowel)
 18. z (phonetic: z)
 [[~/conlang/images/pulmonic-consonants-chart.png]]
-[[~/conlang/images/other-consonants-chart.png]]
+[[/images/other-consonants-chart.png]]
 
 *** Individual letter pronounciation
 All consonants (when speaking aboout an individual letter) are pronounced by adding an "i" to their end. So, for exampple, b would be "bi", j would be "ʐi", etc... As for vowels, they are pronounced shortly, without adding any consonant to their end (unlike English where "a" is pronounced more like "ay"). I hope this makes sense.
