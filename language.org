@@ -79,9 +79,17 @@ In order to keep this language relatively easy to learn and grasp, I choose the 
 For example:
 
 *** 2.2 Grammar
-/This section was heavily inspired by [[https://en.wikipedia.org/wiki/Esperanto][Esperanto]]/
+/This section was heavily inspired by [[https://en.wikipedia.org/wiki/Esperanto][Esperanto]]./
+**** Nouns and adjecctives
 
 | *Noun*     | *Subject* | *Object* |   | *Adjective* | *Subject* | *Object* |
 |------------+-----------+----------+---+-------------+-----------+----------|
 | *Singular* | -a        | -aj      |   | *Singular*  | -o        | -oj      |
 | *Plural*   | -an       | -ajn     |   | *Plural*    | -on       | -ojn     |
+
+/This means that all nouns will end with -a and all adjecctives with -o./
+/Adjectives always *follow* the noun./
+
+**** Verb tenses and mood
+
+| *Verbal tense |
