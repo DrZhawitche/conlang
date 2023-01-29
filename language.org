@@ -30,7 +30,7 @@ This language is a project I work on in my free time. It is meant to be easy to 
 2. u (phonetic: u)
 3. i (phonetic: i)
 4. o (phonetic: ɵ)
-[[~/conlang/images/vowel-chart.png]]
+[[/images/vowel-chart.png]]
 
 **** 1.1.2 Long vowels
 Aswell as their longer counterparts:
@@ -61,7 +61,7 @@ I have deicded to make the distinction between the two types of vowels, so there
 16. x (phonetic: ʃ)
 17. y (phonetic: j) (side note: can *never* be used as a vowel)
 18. z (phonetic: z)
-[[~/conlang/images/pulmonic-consonants-chart.png]]
+[[/images/pulmonic-consonants-chart.png]]
 [[/images/other-consonants-chart.png]]
 
 *** Individual letter pronounciation
