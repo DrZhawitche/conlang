@@ -16,7 +16,7 @@
       - [[#111-short-vowels][1.1.1 Short vowels]]
       - [[p][1.1.2 Long vowels]]
     - [[#12-consonants][1.2 Consonants]]
-  - [[2. Grammatical structure]]
+  - [[#2-grammatical-structure][2. Grammatical structure]]
     - [[#21-word-order][2.1 Word order]]
     - [[#22-grammar][2.2 Grammar]]
 
