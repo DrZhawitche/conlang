@@ -1,4 +1,4 @@
-#+title: [name of langauge] documentation
+#+title: [name of language] documentation
 #+DESCRIPTION: Official documentation for the ----- language
 #+AUTHOR:  Dr_Zhawitche
 #+OPTIONS: toc:3
