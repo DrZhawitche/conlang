@@ -3,8 +3,9 @@
 #+AUTHOR:  Dr_Zhawitche
 #+OPTIONS:
 
-* TODO list [0/1]
-** TODO [] Add an example in [[2.1 Word order]]
+* Todo list - [0/2]
+1. [ ] Give the language a name!!!
+2. [ ] Add an example in [[2.1 Word order]]
 
 * Table of contents
 - [[#license][License]]
