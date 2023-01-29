@@ -11,11 +11,11 @@
 - [[#license][License]]
 - [[#introduction][Introduction]]
 - [[#language-documentation][Language documentation]]
-  - [[Phonology/Orthography]]
+  - [[#phonology/orthography][Phonology/Orthography]]
     - [[1.1 Vowels]]
       - [[1.1.1 Short vowels]]
       - [[1.1.2 Long vowels]]
-    - [[1.2 Consonants]
+    - [1.2 Consonants]]
   - [[2. Grammatical structure]]
     - [[2.1 Word order]]
 
