@@ -22,6 +22,12 @@
     - [[#22-verbal-tenses-and-moods][2.2 Verbal tenses and mood]]
     - [[#23-defineteness][2.3 Defineteness]]
     - [[#24-word-order][2.4 Word order]]
+  - [[#3-syllable-structure][3. Syllable structure]]
+  - [[#4-lexicon][4. Lexicon]]
+    - [[#41-prounouns][4.1 Pronouns]]
+    - [[#42-verbs][4.2 Verbs]]
+    - [[#43-full-lexicon][4.3 Full lexicon]]
+
 
 * License
 This project is licensed under the GNU Free Documentation License (fdl). Check [[https://www.gnu.org/licenses/fdl-1.3.en.html][this link]] for more information.
@@ -110,13 +116,18 @@ For example:
 ** 3. Syllable strucutre
 [Name of language] will follow a (C)(C)V(C)(C) structure
 
-| *Sounds*        |        |
-|-----------------+--------|
-| *Onset*         | *Coda* |
-| b d f ʐ k l m n | p ɦ g  |
-| s t ɾ w ʃ j z   |        |
-| p ɦ g           |        |
-|-----------------+--------|
+|-----------------+--------+-----------|
+| *Sounds*        |        |           |
+|-----------------+--------+-----------|
+| *Onset*         | *Coda* | *Nucleus* |
+|-----------------+--------+-----------|
+| b d f ʐ k l m n | p ɦ g  | ā ū ī ō   |
+| s t ɾ w ʃ j z   |        | a u i o   |
+| p ɦ g           |        | au ai ao  |
+|                 |        | ua ui uo  |
+|                 |        | ia iu io  |
+|                 |        | oa        |
+|-----------------+--------+-----------|
 
 
 ** 4. Lexicon
