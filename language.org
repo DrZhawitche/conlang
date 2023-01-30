@@ -127,8 +127,8 @@ For example:
 
 
 ** 4. Lexicon
-/def.: definite/\\\
-/poss.: posessive/\
+/def.: definite/\\
+/poss.: posessive/ \\
 /dem.: demonstrative/\
 
 *** 4.1 Pronouns
