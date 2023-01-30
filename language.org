@@ -147,6 +147,7 @@ For example:
 |        |         | nor a listener, regardless of gender. Equivalents:     |
 |        |         | "He", "She", "They".                                   |
 |--------+---------+--------------------------------------------------------|
+|--------+---------+--------------------------------------------------------|
 | /San/  | p.      | 1. The speaker plus one or more other people as the    |
 |        |         | subject of the sentence. Equivalents: "We", "Us".      |
 |--------+---------+--------------------------------------------------------|
