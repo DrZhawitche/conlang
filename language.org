@@ -25,8 +25,9 @@
   - [[#3-syllable-structure][3. Syllable structure]]
   - [[#4-lexicon][4. Lexicon]]
     - [[#41-pronouns][4.1 Pronouns]]
-    - [[#42-verbs][4.2 Verbs]]
-    - [[#43-full-lexicon][4.3 Full lexicon]]
+    - [[#42-articles][4.2 Articles]]
+    - [[#43-verbs][4.3 Verbs]]
+    - [[#44-full-lexicon][4.4 Full lexicon]]
 
 
 * License
@@ -85,6 +86,7 @@ All consonants (when speaking aboout an individual letter) are pronounced by add
 ** 2. Grammatical structure
 
 /This section was heavily inspired by [[https://en.wikipedia.org/wiki/Esperanto][Esperanto]]./
+
 *** 2.1 Nouns and adjectives
 
 | *Noun*     | *Subject* | *Object* |   | *Adjective* | *Subject* | *Object* |
@@ -102,7 +104,7 @@ All consonants (when speaking aboout an individual letter) are pronounced by add
 
 | *Verbal tense* | *Suffix* |   | *Verbal mood* | *Suffix* |
 |----------------+----------+---+---------------+----------|
-| *Futur*        | -oz      |   | *Infinitive*  | -is      |
+| *Future*       | -oz      |   | *Infinitive*  | -is      |
 | *Present*      | -az      |   | *Jussive*     | -as      |
 | *Past*         | -iz      |   | *Conditional* | -os      |
 
@@ -133,13 +135,32 @@ For example:
 ** 4. Lexicon
 *** 4.1 Pronouns
 
-| *Word* | *Class* | *Definition* |
-|--------+---------+--------------|
-|        |         |              |
-|        |         |              |
-|        |         |              |
-|        |         |              |
+| *Word* | *Class* | *Definition*                                           |
+|--------+---------+--------------------------------------------------------|
+| /Sa/   | p.      | 1. The one person who is speaking, the subject         |
+|        |         | of the sentence. Equivalent: "I", "Me".                |
+|--------+---------+--------------------------------------------------------|
+| /Li/   | p.      | 1. Used to refer to the one (singular) being .         |
+|        |         | addresse dequivalents: "You".                          |
+|--------+---------+--------------------------------------------------------|
+| /Bo/   | p.      | 1. Used to refer to someone who is neither a speaker   |
+|        |         | nor a listener, regardless of gender. Equivalents:     |
+|        |         | "He", "She", "They".                                   |
+|--------+---------+--------------------------------------------------------|
+| /San/  | p.      | 1. The speaker plus one or more other people as the    |
+|        |         | subject of the sentence. Equivalents: "We", "Us".      |
+|--------+---------+--------------------------------------------------------|
+| /Lin/  | p.      | 1. Used to refer to the ones (plural) being .          |
+|        |         | addresse dequivalents: "You".                          |
+|--------+---------+--------------------------------------------------------|
+| /Bon/  | p.      | 1. Used to refer to two or more poeple who are neither |
+|        |         | speakers nor listeners, regardless of gender.          |
+|        |         | Equivalents: "They".                                   |
+|--------+---------+--------------------------------------------------------|
 
 
-*** 4.2 Verbs
-*** 4.3 Full lexicon
+*** 4.2 Articles
+[name of language] has one article, that can appear in two different ways. /"Ha"/ is a singular "the" and /"Han"/ its plural form.
+
+*** 4.3 Verbs
+*** 4.4 Full lexicon
