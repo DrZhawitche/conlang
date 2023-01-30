@@ -138,18 +138,24 @@ For example:
 | *Word* | *Class* | *Definition*                                                                                            |
 |--------+---------+---------------------------------------------------------------------------------------------------------|
 | /Sa/   | p.      | 1. The one person who is speaking, the subject of the sentence. Equivalent: "I", "Me".                  |
+|        |         |                                                                                                         |
 |--------+---------+---------------------------------------------------------------------------------------------------------|
 | /Li/   | p.      | 1. Used to refer to the one (singular) being addressed dequivalents: "You".                             |
+|        |         |                                                                                                         |
 |--------+---------+---------------------------------------------------------------------------------------------------------|
 | /Bo/   | p.      | 1. Used to refer to someone who is neither a speaker nor a listener, regardless of gender. Equivalents: |
 |        |         | "He", "She", "They".                                                                                    |
+|        |         |                                                                                                         |
 |--------+---------+---------------------------------------------------------------------------------------------------------|
 | /San/  | p.      | 1. The speaker plus one or more other people as the subject of the sentence. Equivalents: "We", "Us".   |
+|        |         |                                                                                                         |
 |--------+---------+---------------------------------------------------------------------------------------------------------|
 | /Lin/  | p.      | 1. Used to refer to the ones (plural) being addressed dequivalents: "You".                              |
+|        |         |                                                                                                         |
 |--------+---------+---------------------------------------------------------------------------------------------------------|
 | /Bon/  | p.      | 1. Used to refer to two or more poeple who are neither  speakers nor listeners, regardless of gender.   |
 |        |         | Equivalents: "They".                                                                                    |
+|        |         |                                                                                                         |
 |--------+---------+---------------------------------------------------------------------------------------------------------|
 
 
