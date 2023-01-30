@@ -73,7 +73,7 @@ As well as their longer counterparts:
 12. r [ɾ]
 13. s [s]
 14. t [t]
-15. w [W]
+15. w [w]
 16. x [ʃ]
 17. y [j] (side note: can *never* be used as a vowel)
 18. z [z]
@@ -89,9 +89,9 @@ All consonants (when speaking aboout an individual letter) are pronounced by add
 
 *** 2.1 Nouns and adjectives
 
-All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for them and should be avoided as much as possible for words other than adjectives.
-
 Adjectives always foll​ow the noun.
+
+All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for them and should be avoided as much as possible for words other than adjectives.
 
 *** 2.2 Verbal tenses and moods
 
