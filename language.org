@@ -55,7 +55,7 @@ As well as their longer counterparts:
 3. ī
 4. ō
 
-/I have deicded to make the distinction between the two types of vowels, so there is no ambiguity concerning the pronounciation of a word./
+/I have decided to make the distinction between the two types of vowels, so there is no ambiguity concerning the pronounciation of a word./
 
 *** 1.2 Consonants
 [name of language] has 18 consonants, which are:
@@ -104,7 +104,7 @@ All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for the
 |----------------+----------+---+---------------+----------|
 
 *** 2.3 Defineteness
-In [language name], nouns are by default indefinite. To make them definite, the article "/ha/" or "/han/" (depending on the number) is required.
+In [language name], nouns are by default indefinite. To make them definite, the article "/ha/" or "/han/" (depending on the number) is required. Check [[#43-defineteness][4.3 Defineteness]].
 
 *** 2.4 Word order
 In order to keep this language relatively easy to learn and grasp, I choose the word order to be S-V-O (subject-verb-object).
@@ -153,7 +153,7 @@ For example:
 | 5. | /Xmā/  | p.      | 1. Used to refer to the ones (plural) being addressed.                          | "You"               |
 |    |        |         |                                                                                 |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-| 6. | /Aōn/  | p.      | 1. Used to refer to two or more poeple who are neither speakers nor listeners,  | "They"              |
+| 6. | /Aōn/  | p.      | 1. Used to refer to two or more people who are neither speakers nor listeners,  | "They"              |
 |    |        |         | regardless of gender.                                                           |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
 
