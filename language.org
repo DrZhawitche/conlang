@@ -116,7 +116,7 @@ For example:
 ** 3. Syllable strucutre
 [Name of language] will follow a (C)(C)V(C)(C) structure.
 
-| *Sounds*
+| *Sounds*                              |
 |---------------+-----------+-----------|
 | *Onset*       | *Coda*    | *Nucleus* |
 |---------------+-----------+-----------|
