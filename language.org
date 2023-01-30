@@ -135,32 +135,32 @@ For example:
 ** 4. Lexicon
 *** 4.1 Pronouns
 
-| \#\ | *Word* | *Class* | *Definition*                                                                    | *Equivalent(s)*     |
-|-----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-|  1. | /Sa/   | p.      | 1. The one person who is speaking, the subject of the sentence.                 | "I", "Me".          |
-|     |        |         |                                                                                 |                     |
-|-----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-|  2. | /Li/   | p.      | 1. Used to refer to the one (singular) being addressed .                        | "You"               |
-|     |        |         |                                                                                 |                     |
-|-----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-|  3. | /Bo/   | p.      | 1. Used to refer to someone who is neither a speaker nor a listener, regardless | "He", "She", "They" |
-|     |        |         | of gender.                                                                      |                     |
-|-----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-|  4. | /San/  | p.      | 1. The speaker plus one or more other people as the subject of the sentence.    | "We", "Us"          |
-|     |        |         |                                                                                 |                     |
-|-----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-|  5. | /Lin/  | p.      | 1. Used to refer to the ones (plural) being addressed.                          | "You"               |
-|     |        |         |                                                                                 |                     |
-|-----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-|  6. | /Bon/  | p.      | 1. Used to refer to two or more poeple who are neither speakers nor listeners,  | "They"              |
-|     |        |         | regardless of gender.                                                           |                     |
-|-----+--------+---------+---------------------------------------------------------------------------------+---------------------|
+| #  | *Word* | *Class* | *Definition*                                                                    | *Equivalent(s)*     |
+|----+--------+---------+---------------------------------------------------------------------------------+---------------------|
+| 1. | /Sa/   | p.      | 1. The one person who is speaking, the subject of the sentence.                 | "I", "Me".          |
+|    |        |         |                                                                                 |                     |
+|----+--------+---------+---------------------------------------------------------------------------------+---------------------|
+| 2. | /Li/   | p.      | 1. Used to refer to the one (singular) being addressed .                        | "You"               |
+|    |        |         |                                                                                 |                     |
+|----+--------+---------+---------------------------------------------------------------------------------+---------------------|
+| 3. | /Bo/   | p.      | 1. Used to refer to someone who is neither a speaker nor a listener, regardless | "He", "She", "They" |
+|    |        |         | of gender.                                                                      |                     |
+|----+--------+---------+---------------------------------------------------------------------------------+---------------------|
+| 4. | /San/  | p.      | 1. The speaker plus one or more other people as the subject of the sentence.    | "We", "Us"          |
+|    |        |         |                                                                                 |                     |
+|----+--------+---------+---------------------------------------------------------------------------------+---------------------|
+| 5. | /Lin/  | p.      | 1. Used to refer to the ones (plural) being addressed.                          | "You"               |
+|    |        |         |                                                                                 |                     |
+|----+--------+---------+---------------------------------------------------------------------------------+---------------------|
+| 6. | /Bon/  | p.      | 1. Used to refer to two or more poeple who are neither speakers nor listeners,  | "They"              |
+|    |        |         | regardless of gender.                                                           |                     |
+|----+--------+---------+---------------------------------------------------------------------------------+---------------------|
 
 
 *** 4.2 Articles
-[name of language] has one article, that can appear in two different ways. "/Ha/" is a singular "the" and "/Han/" its plural form.
+[name of language] has one article, that can appear in two different ways. "/Ha/" is the singular equivalent of "the" and "/Han/" a plural one.
 
-|    | *Word* | *Class* | *Definition*                                                                                        |
+| #  | *Word* | *Class* | *Definition*                                                                                        |
 |----+--------+---------+-----------------------------------------------------------------------------------------------------|
 | 1. | /Ha/   | def. a. | 1. Used before singular nouns and noun phrases that denote particular, specified persons or things. |
 |    |        |         |                                                                                                     |
@@ -170,4 +170,6 @@ For example:
 |----+--------+---------+-----------------------------------------------------------------------------------------------------|
 
 *** 4.3 Verbs
+Note: Because verb conjugation is very simple and only depends on the time/mood, there isn't much of a point in conjugating every single verb that will be listed here. For more information check [[#22-verbal-tenses-and-moods][2.2 Verbal tenses and moods]].
+
 *** 4.4 Full lexicon
