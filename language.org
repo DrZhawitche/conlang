@@ -127,7 +127,7 @@ For example:
 
 
 ** 4. Lexicon
-/def.: definite/\
+/def.: definite/\\\
 /poss.: posessive/\
 /dem.: demonstrative/\
 
