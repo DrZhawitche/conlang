@@ -104,7 +104,7 @@ All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for the
 |----------------+----------+---+---------------+----------|
 
 *** 2.3 Defineteness
-In [language name], nouns are by default indefinite. To make them definite, the article "/ha/" or "/han/" (depending on the number) is required. Check [[#43-defineteness][4.3 Defineteness]].
+In [language name], nouns are by default indefinite. To make them definite, the article "/ha/" or "/han/" (depending on the number) is required. Check [[#23-defineteness][2-3. Defineteness]] for more information.
 
 *** 2.4 Word order
 In order to keep this language relatively easy to learn and grasp, I choose the word order to be S-V-O (subject-verb-object).
