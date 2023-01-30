@@ -104,14 +104,14 @@ All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for the
 |----------------+----------+---+---------------+----------|
 
 *** 2.3 Defineteness
-In [language name], nouns are by default indefinite. To make them definite, an article such as [insert article name] is required.
+In [language name], nouns are by default indefinite. To make them definite, the article "/ha/" or "/han/" (depending on the number) is required.
 
 *** 2.4 Word order
 In order to keep this language relatively easy to learn and grasp, I choose the word order to be S-V-O (subject-verb-object).
 For example:
 
 ** 3. Syllable strucutre
-[Name of language] will follow a (C)(C)V(C)(C) structure.
+[Name of language] follows a (C)(C)V(C)(C) structure.
 
 |---------------+-----------+-----------|
 | *Sounds*      |           |           |
@@ -127,6 +127,9 @@ For example:
 
 
 ** 4. Lexicon
+/def.: definite/
+/poss.: posessive/
+/dem.: demonstrative/
 *** 4.1 Pronouns
 
 | #  | *Word* | *Class* | *Definition*                                                                    | *Equivalent(s)*     |
@@ -152,7 +155,7 @@ For example:
 
 
 *** 4.2 Articles
-[name of language] has one article, that can appear in two different ways. "/Ha/" is the singular equivalent of "the" and "/Han/" a plural one.
+[name of language] has one article for defineteness, that can appear in two different ways. "/Ha/" is the singular equivalent of "the" and "/Han/" a plural one.
 
 |  # | *Word* | *Class* | *Definition*                                                                                        | *Equivalent(s)* |
 |----+--------+---------+-----------------------------------------------------------------------------------------------------+-----------------|
