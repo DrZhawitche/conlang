@@ -49,7 +49,7 @@ This language is a project I work on in my free time. It is meant to be easy to 
 [[images/vowel-chart.png]]
 
 **** 1.1.2 Long vowels
-Aswell as their longer counterparts:
+As well as their longer counterparts:
 1. ā
 2. ū
 3. ī
@@ -89,24 +89,19 @@ All consonants (when speaking aboout an individual letter) are pronounced by add
 
 *** 2.1 Nouns and adjectives
 
-| *Noun*     | *Subject* | *Object* |   | *Adjective* | *Subject* | *Object* |
-|------------+-----------+----------+---+-------------+-----------+----------|
-| *Singular* | -a        | -aj      |   | *Singular*  | -o        | -oj      |
-| *Plural*   | -an       | -ajn     |   | *Plural*    | -on       | -ojn     |
+All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for them and should be avoided as much as possible for words other than adjectives.
 
-/This means that all nouns will end with -a and all adjecctives with -o./
-
-/All derived verbs (from the nouns) end in -u./
-
-/Adjectives always foll​ow the noun./
+Adjectives always foll​ow the noun.
 
 *** 2.2 Verbal tenses and moods
 
+|----------------+----------+---+---------------+----------|
 | *Verbal tense* | *Suffix* |   | *Verbal mood* | *Suffix* |
 |----------------+----------+---+---------------+----------|
 | *Future*       | -oz      |   | *Infinitive*  | -is      |
 | *Present*      | -az      |   | *Jussive*     | -as      |
 | *Past*         | -iz      |   | *Conditional* | -os      |
+|----------------+----------+---+---------------+----------|
 
 *** 2.3 Defineteness
 In [language name], nouns are by default indefinite. To make them definite, an article such as [insert article name] is required.
@@ -118,17 +113,16 @@ For example:
 ** 3. Syllable strucutre
 [Name of language] will follow a (C)(C)V(C)(C) structure.
 
-|---------------------------------------|
-| *Sounds*                              |
+|---------------+-----------+-----------|
+| *Sounds*      |           |           |
 |---------------+-----------+-----------|
 | *Onset*       | *Coda*    | *Nucleus* |
 |---------------+-----------+-----------|
 | b d f ʐ k l m | b d f ʐ k | ā ū ī ō   |
 | n s t ɾ w ʃ j | l m n s t | a u i o   |
-| z p ɦ g       | ɾ w ʃ j z | au ai ao  |
-|               |           | ua ui uo  |
-|               |           | ia iu io  |
-|               |           | oa        |
+| z p ɦ g       | ɾ w ʃ j z | au ao ua  |
+|               |           | ui uo ia  |
+|               |           | iu io  oa |
 |---------------+-----------+-----------|
 
 
