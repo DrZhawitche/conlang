@@ -128,30 +128,34 @@ For example:
 
 ** 4. Lexicon
 #+BEGIN_VERSE
-def.: definite
-poss.: posessive
-dem.: demonstrative
+/def.: definite/
+/poss.: posessive/
+/dem.: demonstrative/
 #+END_VERSE
 *** 4.1 Pronouns
 
-| #  | *Word* | *Class* | *Definition*                                                                    | *Equivalent(s)*     |
+#+BEGIN_COMMENT
+/Some of these pronouns were inspired by farsi/
+#+end_comment
+
+|  # | *Word* | *Class* | *Definition*                                                                    | *Equivalent(s)*     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-| 1. | /Sa/   | p.      | 1. The one person who is speaking, the subject of the sentence.                 | "I", "Me".          |
+| 1. | /Yi/   | p.      | 1. The one person who is speaking, the subject of the sentence.                 | "I", "Me".          |
 |    |        |         |                                                                                 |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-| 2. | /Li/   | p.      | 1. Used to refer to the one (singular) being addressed .                        | "You"               |
+| 2. | /Do/   | p.      | 1. Used to refer to the one (singular) being addressed .                        | "You"               |
 |    |        |         |                                                                                 |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-| 3. | /Bo/   | p.      | 1. Used to refer to someone who is neither a speaker nor a listener, regardless | "He", "She", "They" |
+| 3. | /Ō/    | p.      | 1. Used to refer to someone who is neither a speaker nor a listener, regardless | "He", "She", "They" |
 |    |        |         | of gender.                                                                      |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-| 4. | /San/  | p.      | 1. The speaker plus one or more other people as the subject of the sentence.    | "We", "Us"          |
+| 4. | /Mā/   | p.      | 1. The speaker plus one or more other people as the subject of the sentence.    | "We", "Us"          |
 |    |        |         |                                                                                 |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-| 5. | /Lin/  | p.      | 1. Used to refer to the ones (plural) being addressed.                          | "You"               |
+| 5. | /Xmā/  | p.      | 1. Used to refer to the ones (plural) being addressed.                          | "You"               |
 |    |        |         |                                                                                 |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-| 6. | /Bon/  | p.      | 1. Used to refer to two or more poeple who are neither speakers nor listeners,  | "They"              |
+| 6. | /Aōn/  | p.      | 1. Used to refer to two or more poeple who are neither speakers nor listeners,  | "They"              |
 |    |        |         | regardless of gender.                                                           |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
 
