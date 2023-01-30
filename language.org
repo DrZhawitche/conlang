@@ -42,10 +42,10 @@ This language is a project I work on in my free time. It is meant to be easy to 
 *** 1.1 Vowels
 **** 1.1.1 Short vowels
 [name of language] has 4 vowels, which are:
-1. a (phonetic: a)
-2. u (phonetic: u)
-3. i (phonetic: i)
-4. o (phonetic: ɵ)
+1. a [ɒ]
+2. u [u]
+3. i [i]
+4. o [ɵ]
 [[images/vowel-chart.png]]
 
 **** 1.1.2 Long vowels
@@ -134,9 +134,7 @@ For example:
 #+END_VERSE
 *** 4.1 Pronouns
 
-#+BEGIN_COMMENT
 /Some of these pronouns were inspired by farsi/
-#+end_comment
 
 |  # | *Word* | *Class* | *Definition*                                                                    | *Equivalent(s)*     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
