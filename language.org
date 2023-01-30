@@ -114,10 +114,9 @@ In order to keep this language relatively easy to learn and grasp, I choose the 
 For example:
 
 ** 3. Syllable strucutre
-[Name of language] will follow a (C)(C)V(C)(C) structure
+[Name of language] will follow a (C)(C)V(C)(C) structure.
 
-|---------------+-----------+-----------|
-| *Sounds*      |           |           |
+| *Sounds*
 |---------------+-----------+-----------|
 | *Onset*       | *Coda*    | *Nucleus* |
 |---------------+-----------+-----------|
