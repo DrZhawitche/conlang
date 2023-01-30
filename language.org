@@ -199,10 +199,10 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 
 | *Root* | *Definition*                                                |
 |--------+-------------------------------------------------------------|
-| gopri  | 1. Related to eating                                        |
+| Gopri  | 1. Related to eating                                        |
 |        |                                                             |
 |--------+-------------------------------------------------------------|
-| hati   | 1. Related to love                                          |
+| Hati   | 1. Related to love                                          |
 |        | 2. Related to liking something or someone                   |
 |        |                                                             |
 |--------+-------------------------------------------------------------|
