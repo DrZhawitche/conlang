@@ -162,5 +162,14 @@ For example:
 *** 4.2 Articles
 [name of language] has one article, that can appear in two different ways. "/Ha/" is a singular "the" and "/Han/" its plural form.
 
+|    | *Word* | *Class* | *Definition*                                                                                        |
+|----+--------+---------+-----------------------------------------------------------------------------------------------------|
+| 1. | /Ha/   | def. a. | 1. Used before singular nouns and noun phrases that denote particular, specified persons or things. |
+|    |        |         |                                                                                                     |
+|----+--------+---------+-----------------------------------------------------------------------------------------------------|
+| 2. | /Han/  | def. a. | 2. Used before plural nouns and noun phrases that denote particular, specified persons or things.   |
+|    |        |         |                                                                                                     |
+|----+--------+---------+-----------------------------------------------------------------------------------------------------|
+
 *** 4.3 Verbs
 *** 4.4 Full lexicon
