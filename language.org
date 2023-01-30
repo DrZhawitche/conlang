@@ -127,10 +127,11 @@ For example:
 
 
 ** 4. Lexicon
-/def.: definite/\\
-/poss.: posessive/ \\
-/dem.: demonstrative/\
-
+#+BEGIN_VERSE
+/def.: definite/
+/poss.: posessive/
+/dem.: demonstrative/
+#+END_VERSE
 *** 4.1 Pronouns
 
 | #  | *Word* | *Class* | *Definition*                                                                    | *Equivalent(s)*     |
