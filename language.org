@@ -160,14 +160,14 @@ For example:
 *** 4.2 Articles
 [name of language] has one article, that can appear in two different ways. "/Ha/" is the singular equivalent of "the" and "/Han/" a plural one.
 
-| #  | *Word* | *Class* | *Definition*                                                                                        |
-|----+--------+---------+-----------------------------------------------------------------------------------------------------|
-| 1. | /Ha/   | def. a. | 1. Used before singular nouns and noun phrases that denote particular, specified persons or things. |
-|    |        |         |                                                                                                     |
-|----+--------+---------+-----------------------------------------------------------------------------------------------------|
-| 2. | /Han/  | def. a. | 2. Used before plural nouns and noun phrases that denote particular, specified persons or things.   |
-|    |        |         |                                                                                                     |
-|----+--------+---------+-----------------------------------------------------------------------------------------------------|
+|  # | *Word* | *Class* | *Definition*                                                                                        | *Equivalent(s)* |
+|----+--------+---------+-----------------------------------------------------------------------------------------------------+-----------------|
+| 1. | /Ha/   | def. a. | 1. Used before singular nouns and noun phrases that denote particular, specified persons or things. | "The"           |
+|    |        |         |                                                                                                     |                 |
+|----+--------+---------+-----------------------------------------------------------------------------------------------------+-----------------|
+| 2. | /Han/  | def. a. | 2. Used before plural nouns and noun phrases that denote particular, specified persons or things.   | "The"           |
+|    |        |         |                                                                                                     |                 |
+|----+--------+---------+-----------------------------------------------------------------------------------------------------+-----------------|
 
 *** 4.3 Verbs
 Note: Because verb conjugation is very simple and only depends on the time/mood, there isn't much of a point in conjugating every single verb that will be listed here. For more information check [[#22-verbal-tenses-and-moods][2.2 Verbal tenses and moods]].
