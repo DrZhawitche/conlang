@@ -160,7 +160,7 @@ For example:
 
 
 *** 4.2 Articles
-[name of language] has one article, that can appear in two different ways. "/Ha/" is a singular "the" and /"Han"/ its plural form.
+[name of language] has one article, that can appear in two different ways. "/Ha/" is a singular "the" and "/Han/" its plural form.
 
 *** 4.3 Verbs
 *** 4.4 Full lexicon
