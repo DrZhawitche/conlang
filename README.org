@@ -105,13 +105,22 @@ All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for the
 
 *** 2.2 Verbal tenses and moods
 
-|----------------+----------+---+---------------+----------|
-| *Verbal tense* | *Suffix* |   | *Verbal mood* | *Suffix* |
-|----------------+----------+---+---------------+----------|
-| *Future*       | -oz      |   | *Infinitive*  | -īs      |
-| *Present*      | -iz      |   | *Jussive*     | -as      |
-| *Past*         | -az      |   | *Conditional* | -os      |
-|----------------+----------+---+---------------+----------|
+|----------------+----------|
+| *Verbal tense* | *Suffix* |
+|----------------+----------|
+| *Future*       | -oz      |
+| *Present*      | -iz      |
+| *Past*         | -az      |
+|----------------+----------|
+
+|---------------+----------|
+| *Verbal mood* | *Suffix* |
+|---------------+----------|
+| *Infinitive*  | -īs      |
+| *Jussive*     | -as      |
+| *Conditional* | -os      |
+|---------------+----------|
+
 
 *** 2.3 Possesion
 Unlike English, possesion isn't indicated by using an article. Instead, the suffix -ō (with the dash - ) is added followed by the specific pronoun or name (also attached by a dash - ).
