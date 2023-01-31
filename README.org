@@ -114,9 +114,11 @@ All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for the
 |----------------+----------+---+---------------+----------|
 
 *** 2.3 Possesion
-Unlike English, possession isn't indicated by using an article. Instead, the suffix -ō (with the dash - ) is added followed by the specific pronoun or name (also attached by a dash - ).
+Unlike English, possesion isn't indicated by using an article. Instead, the suffix -ō (with the dash - ) is added followed by the specific pronoun or name (also attached by a dash - ).
 
 Ex: Ibonakū-ō-Kxiu /(The fish of the man)/
+
+Note that the article "/Ha/" wasn't employed, this is because words are by default definite when there is possesion, but it can still be used, and both ways are correct.
 
 *** 2.4 Defineteness
 In [language name], nouns are by default indefinite. To make them definite, the article "/ha/" or "/han/" is required. Check [[#42-articles][4.2 Articles]] for more information.
