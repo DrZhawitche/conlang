@@ -118,7 +118,7 @@ In [language name], nouns are by default indefinite. To make them definite, the 
 *** 2.4 Word order
 In order to keep this language relatively easy to learn and grasp, I choose the word order to be S-V-O (subject-verb-object).
 Ex: |Ha drui Nakū| |gopriz| |Ibonakūn|. /(The quick animal eats fish)/
-    \    *S*     / \  *V* / \  *O*   /
+    \    *S*     / \  *V* / \  *O*   / \\
 
 
 *** 2.5 Capitalization
