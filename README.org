@@ -101,7 +101,9 @@ All consonants (when speaking aboout an individual letter) are pronounced by add
 
 Adjectives always ​precede the noun.
 
-All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for them and should be avoided as much as possible for words other than adjectives.
+Most derived adjectives (from the nouns) end in -ui. -ui is thus reserved for them and should be avoided as much as possible for words other than adjectives.
+
+Plurals (for both nouns and adjectives) is done by adding an "/n/" at the end. "/N/" should thus be avoided the last letter of a word. Also note that any long vowels that might come at the end of the word turn into simple short ones after an "/n/" is added.
 
 *** 2.2 Verbal tenses and moods
 
@@ -123,8 +125,8 @@ All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for the
 
 
 *** 2.3 Possesion
-Unlike English, possesion isn't indicated by using an article. Instead, the suffix -ō (with the dash - ) is added followed by the specific pronoun or name (also attached by a dash - ).
 
+Unlike English, possesion isn't indicated by using an article. Instead, the suffix -ō (with the dash - ) is added followed by the specific pronoun or name (also attached by a dash - ).
 Ex: Ibonakū-ō-Kxiu /(The fish of the man)/
 
 Note that the article "/Ha/" wasn't employed, this is because words are by default definite when there is possesion, but it can still be used, and both ways are correct.
@@ -175,7 +177,7 @@ All nouns are capitalized, as well as the first word of a sentence.
 | 2. | /Dō/   | p.      | 1. Used to refer to the one (singular) being addressed .                        | "You"               |
 |    |        |         |                                                                                 |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-| 3. | /Ā/     | p.      | 1. Used to refer to someone who is neither a speaker nor a listener, regardless | "He", "She", "They" |
+| 3. | /Ām/   | p.      | 1. Used to refer to someone who is neither a speaker nor a listener, regardless | "He", "She", "They" |
 |    |        |         | of gender.                                                                      |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
 | 4. | /Mā/   | p.      | 1. The speaker plus one or more other people as the subject of the sentence.    | "We", "Us"          |
