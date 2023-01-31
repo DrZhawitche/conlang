@@ -8,6 +8,7 @@
 2. [ ] Add an example in [[2.4 Word order]]
 3. [X] Add an example in [[2.3 Defineteness]]
 
+
 * Table of contents
 - [[#license][License]]
 - [[#introduction][Introduction]]
@@ -32,17 +33,20 @@
     - [[#42-articles][4.2 Articles]]
     - [[#43-verbs][4.3 Verbs]]
     - [[#44-roots][4.4 Roots]]
-    - [[#45-full-lexicon][4.5 Full lexicon]]
+    - [[#45-prepositions][4.5 Prepositions]]
+    - [[#46-full-lexicon][4.6 Full lexicon]]
 
 
 * License
 This project is licensed under the GNU Free Documentation License (fdl). Check [[https://www.gnu.org/licenses/fdl-1.3.en.html][this link]] for more information.
+
 
 * Introduction
 This language is a project I work on in my free time. It is meant to be easy to write and learn, and should thus make for a great way to communicate secretly. I have taken inspiration from languages I have knowledge of (English, French, Arabic, Spanish, Farsi and German) and have incorporated the elements I like from each one, and dropped the ones that displease me.
 
 
 * Language documentation
+
 ** 1. Phonology/Orthography
 *** 1.1 Vowels
 **** 1.1.1 Short vowels
@@ -87,6 +91,7 @@ As well as their longer counterparts:
 *** Individual letter pronounciation
 All consonants (when speaking aboout an individual letter) are pronounced by adding an "i" to their end. So, for exampple, b would be "bi", j would be "ʐi", etc... As for vowels, they are pronounced shortly, without adding any consonant to their end (unlike English where "a" is pronounced more like "ay"). I hope this makes sense.
 
+
 ** 2. Grammatical structure
 
 /This section was heavily inspired by [[https://en.wikipedia.org/wiki/Esperanto][Esperanto]]./
@@ -112,10 +117,13 @@ In [language name], nouns are by default indefinite. To make them definite, the 
 
 *** 2.4 Word order
 In order to keep this language relatively easy to learn and grasp, I choose the word order to be S-V-O (subject-verb-object).
-For example:
+Ex: |Ha drui Nakū| |gopriz| |Ibonakūn|. /(The quick animal eats fish)/
+    \    *S*     / \  *V* / \  *O*   /
+
 
 *** 2.5 Capitalization
 All nouns are capitalized, as well as the first word of a sentence.
+
 
 ** 3. Syllable strucutre
 [Name of language] follows a (C)(C)V(C)(C) structure.
@@ -235,10 +243,20 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 |--------+-------------------------------------------------------------|
 |        |                                                             |
 
+*** 4.5 Prepositions
 
 
+| *Word* | *Class* | *Definition*                                                 | *Equivalent(s)* |
+|--------+---------+--------------------------------------------------------------+-----------------|
+| ax     | prep.   | 1. From                                                      | "From"          |
+|        |         | Ex : Yī kliz ax ha "Planet earth" (I come from Planet Earth) |                 |
+|--------+---------+--------------------------------------------------------------+-----------------|
+| xhā    | prep.   | 1. To                                                        | "To"            |
+|        |         | Ex: Yī ibiz xhā ha ibo. (I go to the water)                  |                 |
+|        |         |                                                              |                 |
+|--------+---------+--------------------------------------------------------------+-----------------|
 
-*** 4.5 Full lexicon
+*** 4.6 Full lexicon
 
 | *Word*  | *Class* | *Definition*                                                                | *Equivalent(s)*                      |
 |---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
