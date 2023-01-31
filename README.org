@@ -242,6 +242,10 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 
 | *Word*  | *Class* | *Definition*                                                                | *Equivalent(s)*                      |
 |---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| ax      | prep.   | 1. From                                                                     | "From"                               |
+|         |         | Ex : Yī kliz ax ha "Planet earth" (I come from Planet Earth)                |                                      |
+|         |         |                                                                             |                                      |
+|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
 | Goprīs  | v.      | 1. To eat, to consumme food                                                 | "To eat", "To devoure"               |
 |         |         |                                                                             |                                      |
 |---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
@@ -265,8 +269,9 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 |         |         |                                                                             |                                      |
 |---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
 | Ibīs    | v.      | 1. To flow, to move in a stream                                             | "To flow", "To originate", "To       |
-|         |         | 2. To proceed smoothly and easily                                           | come from"                           |
-|         |         | 3. To derive or come from                                                   |                                      |
+|         |         | 2. To proceed smoothly and easily                                           | come from", "To go"                  |
+|         |         | 3. To derive or come from (if used with ax)                                 |                                      |
+|         |         | 4. (Colloquial) To go somewhere (if used with xhā)                          |                                      |
 |         |         |                                                                             |                                      |
 |---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
 | Ibō     | n.      | 1. Water                                                                    | "Water"                              |
@@ -281,7 +286,7 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 |         |         |                                                                             |                                      |
 |---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
 | Nakū    | n.      | 1. An animal, a beast                                                       | "Animal", "Beast"                    |
-|         |         |                                                                             |                                      |
+|         |         | 2. (Colloquial) Someone who is either stupid or ill manered                 |                                      |
 |---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
 | Nakui   | adj.    | 1. Savage, wild                                                             | "Savage", "Wild", "Unmannered",      |
 |         |         | 2.(Colloquial) Said about someone who is uncivilized, lacks manners         | "Uncivilized"                        |
@@ -307,3 +312,6 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 | Tikīs   | v.      | 1. To have something, to be in possesion of it, whether literal or not      | "To have", "To own"                  |
 |         |         |                                                                             |                                      |
 |---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| xhā     | prep.   | 1. To                                                                       | "To"                                 |
+|         |         | Ex: Yī ibiz xhā ha ibo. (I go to the water)                                 |                                      |
+|         |         |                                                                             |                                      |
