@@ -22,9 +22,10 @@
   - [[#2-grammatical-structure][2. Grammatical structure]]
     - [[#21-nouns-and-adjectives][2.1 Nouns and adjectives]]
     - [[#22-verbal-tenses-and-moods][2.2 Verbal tenses and mood]]
-    - [[#23-defineteness][2.3 Defineteness]]
-    - [[#24-word-order][2.4 Word order]]
-    - [[#25-capitalization][2.5 Capitalization]]
+    - [[#23-possesion][2.3 Possesion]]
+    - [[#24-defineteness][2.4 Defineteness]]
+    - [[#25-word-order][2.5 Word order]]
+    - [[#26-capitalization][2.6 Capitalization]]
 
   - [[#3-syllable-structure][3. Syllable structure]]
 
@@ -112,16 +113,20 @@ All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for the
 | *Past*         | -az      |   | *Conditional* | -os      |
 |----------------+----------+---+---------------+----------|
 
-*** 2.3 Defineteness
+*** 2.3 Possesion
+Unlike English, possession isn't indicated by using an article. Instead, the suffix -ō (with the dash - ) is added followed by the specific pronoun or name (also attached by a dash - ).
+
+Ex: Ibonakū-ō-Kxiu /(The fish of the man)/
+
+*** 2.4 Defineteness
 In [language name], nouns are by default indefinite. To make them definite, the article "/ha/" or "/han/" is required. Check [[#42-articles][4.2 Articles]] for more information.
 
-*** 2.4 Word order
+*** 2.5 Word order
 In order to keep this language relatively easy to learn and grasp, I choose the word order to be S-V-O (subject-verb-object).
-Ex: |Ha drui Nakū| |gopriz| |Ibonakūn|. /(The quick animal eats fish)/
-    \    *S*     / \  *V* / \  *O*   / \\
+Ex: Ha drui Nakū gopriz Ibonakūn. /(The quick animal eats fish)/
 
 
-*** 2.5 Capitalization
+*** 2.6 Capitalization
 All nouns are capitalized, as well as the first word of a sentence.
 
 
@@ -159,7 +164,7 @@ All nouns are capitalized, as well as the first word of a sentence.
 | 2. | /Dō/   | p.      | 1. Used to refer to the one (singular) being addressed .                        | "You"               |
 |    |        |         |                                                                                 |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
-| 3. | /Ō/    | p.      | 1. Used to refer to someone who is neither a speaker nor a listener, regardless | "He", "She", "They" |
+| 3. | /Ā/     | p.      | 1. Used to refer to someone who is neither a speaker nor a listener, regardless | "He", "She", "They" |
 |    |        |         | of gender.                                                                      |                     |
 |----+--------+---------+---------------------------------------------------------------------------------+---------------------|
 | 4. | /Mā/   | p.      | 1. The speaker plus one or more other people as the subject of the sentence.    | "We", "Us"          |
@@ -224,13 +229,20 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 | Ibo    | 1. Related to water                                         |
 |        |                                                             |
 |--------+-------------------------------------------------------------|
+| Kli    | 1. Related to being                                         |
+|        |                                                             |
+|--------+-------------------------------------------------------------|
 | Naki   | 1. Related to animals                                       |
 |        | 2. Related to being savage, feral                           |
 |        |                                                             |
 |--------+-------------------------------------------------------------|
 | Nri    | 1. Related to speed, swiftness                              |
+|        |                                                             |
 |--------+-------------------------------------------------------------|
-| Kli    | 1. Related to being                                         |
+| Nxāli  | 1. Related to girl, or feminine in general                  |
+|        |                                                             |
+|--------+-------------------------------------------------------------|
+| Oki    | 1. Related to small, opposite of big                        |
 |        |                                                             |
 |--------+-------------------------------------------------------------|
 | Su     | 1. (When used individually) No                              |
@@ -241,95 +253,113 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 | Tiki   | 1. Related to having, being in possesion of something       |
 |        |                                                             |
 |--------+-------------------------------------------------------------|
-|        |                                                             |
+
 
 *** 4.5 Prepositions
 
 
 | *Word* | *Class* | *Definition*                                                 | *Equivalent(s)* |
 |--------+---------+--------------------------------------------------------------+-----------------|
-| ax     | prep.   | 1. From                                                      | "From"          |
+| Ax     | prep.   | 1. From                                                      | "From"          |
 |        |         | Ex : Yī kliz ax ha "Planet earth" (I come from Planet Earth) |                 |
 |--------+---------+--------------------------------------------------------------+-----------------|
-| xhā    | prep.   | 1. To                                                        | "To"            |
+| Xhā    | prep.   | 1. To                                                        | "To"            |
 |        |         | Ex: Yī ibiz xhā ha ibo. (I go to the water)                  |                 |
 |        |         |                                                              |                 |
 |--------+---------+--------------------------------------------------------------+-----------------|
 
 *** 4.6 Full lexicon
 
-| *Word*  | *Class* | *Definition*                                                                | *Equivalent(s)*                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| ax      | prep.   | 1. From                                                                     | "From"                               |
-|         |         | Ex : Yī kliz ax ha "Planet earth" (I come from Planet Earth)                |                                      |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Goprīs  | v.      | 1. To eat, to consumme food                                                 | "To eat", "To devoure"               |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Goprui  | n.      | 1. Food, a meal                                                             | "Food", "Meal"                       |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Goprui  | adj.    | 1. Hungry, wanting to eat                                                   | "Hungry", "Desirous", "Avid"         |
-|         |         | 2. (Colloquial), someone who is very avid, always wanting to have more.     |                                      |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Hatīs   | v.      | 1. To have strong affection towards something or someone, to hold dear      | "To like", "To love", "To enjoy",    |
-|         |         | 2. To enjoy something, someone, or a concept, to like                       | "To cherish"                         |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Hatū    | n.      | 1. Strong affection towards something or someone, cherishment, kinship      | "Love", "Cherishment", "Liking",     |
-|         |         | 2. Favorable regard, liking                                                 | "Enjoyment"                          |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Hatui   | adj.    | 1. Loved, cherished                                                         | "Loved", "Liked", "Cherished",       |
-|         |         | 2. Enjoyed, appreciated                                                     | "Enjoyed"                            |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Ibīs    | v.      | 1. To flow, to move in a stream                                             | "To flow", "To originate", "To       |
-|         |         | 2. To proceed smoothly and easily                                           | come from", "To go"                  |
-|         |         | 3. To derive or come from (if used with ax)                                 |                                      |
-|         |         | 4. (Colloquial) To go somewhere (if used with xhā)                          |                                      |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Ibō     | n.      | 1. Water                                                                    | "Water"                              |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Ibonakū | n.      | 1. (Litteraly water animal) A fish                                          | "Fish"                               |
-|         |         | 2. By extension, anything that lives in the water                           |                                      |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Ibui    | n.      | 1. Wet, covered with water                                                  | "Wet", "Watery", "Aquatic", "Marine" |
-|         |         | 2. Related to water, /aquatic/                                              |                                      |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Nakū    | n.      | 1. An animal, a beast                                                       | "Animal", "Beast"                    |
-|         |         | 2. (Colloquial) Someone who is either stupid or ill manered                 |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Nakui   | adj.    | 1. Savage, wild                                                             | "Savage", "Wild", "Unmannered",      |
-|         |         | 2.(Colloquial) Said about someone who is uncivilized, lacks manners         | "Uncivilized"                        |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Nrī     | n.      | 1. Speed                                                                    | "Speed"                              |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Nrui    | adj.    | 1. Quick, speedy, that moves in a quick manner                              | "Swift", "Quick", "Fast", "Rapid"    |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Klīs    | v.      | 1. To be                                                                    | "To be"                              |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Su      | adj.    | 1. (When used alone) No                                                     | "No", "Do/Does not"                  |
-|         |         | 2. (When used in front of a verb) Indicates negation, makes a verb negative |                                      |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Sunakui | adj.    | 1. Non savage, domestiquated                                                | "Domestiquated", "Good manered",     |
-|         |         | 2. (Colloquial) Civilized, good mannered                                    | "Civilized"                          |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Tikīs   | v.      | 1. To have something, to be in possesion of it, whether literal or not      | "To have", "To own"                  |
-|         |         |                                                                             |                                      |
-|---------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| xhā     | prep.   | 1. To                                                                       | "To"                                 |
-|         |         | Ex: Yī ibiz xhā ha ibo. (I go to the water)                                 |                                      |
-|         |         |                                                                             |                                      |
+| *Word*   | *Class* | *Definition*                                                                | *Equivalent(s)*                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Ax       | prep.   | 1. From                                                                     | "From"                               |
+|          |         | Ex : Yī kliz ax ha "Planet earth" (I come from Planet Earth)                |                                      |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Goprīs   | v.      | 1. To eat, to consumme food                                                 | "To eat", "To devoure"               |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Goprui   | n.      | 1. Food, a meal                                                             | "Food", "Meal"                       |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Goprui   | adj.    | 1. Hungry, wanting to eat                                                   | "Hungry", "Desirous", "Avid"         |
+|          |         | 2. (Colloquial), someone who is very avid, always wanting to have more.     |                                      |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Hatīs    | v.      | 1. To have strong affection towards something or someone, to hold dear      | "To like", "To love", "To enjoy",    |
+|          |         | 2. To enjoy something, someone, or a concept, to like                       | "To cherish"                         |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Hatū     | n.      | 1. Strong affection towards something or someone, cherishment, kinship      | "Love", "Cherishment", "Liking",     |
+|          |         | 2. Favorable regard, liking                                                 | "Enjoyment"                          |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Hatui    | adj.    | 1. Loved, cherished                                                         | "Loved", "Liked", "Cherished",       |
+|          |         | 2. Enjoyed, appreciated                                                     | "Enjoyed"                            |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Ibīs     | v.      | 1. To flow, to move in a stream                                             | "To flow", "To originate", "To       |
+|          |         | 2. To proceed smoothly and easily                                           | come from", "To go"                  |
+|          |         | 3. To derive or come from (if used with ax)                                 |                                      |
+|          |         | 4. (Colloquial) To go somewhere (if used with xhā)                          |                                      |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Ibō      | n.      | 1. Water                                                                    | "Water"                              |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Ibonakū  | n.      | 1. (Litteraly water animal) A fish                                          | "Fish"                               |
+|          |         | 2. By extension, anything that lives in the water                           |                                      |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Ibui     | n.      | 1. Wet, covered with water                                                  | "Wet", "Watery", "Aquatic", "Marine" |
+|          |         | 2. Related to water, /aquatic/                                              |                                      |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Klīs     | v.      | 1. To be                                                                    | "To be"                              |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Kxiu     | n.      | 1. A boy or man                                                             | "Man", "Boy", "Male"                 |
+|          |         | 2. By extension, a male from any species                                    |                                      |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Nakū     | n.      | 1. An animal, a beast                                                       | "Animal", "Beast"                    |
+|          |         | 2. (Colloquial) Someone who is either stupid or ill manered                 |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Nakui    | adj.    | 1. Savage, wild                                                             | "Savage", "Wild", "Unmannered",      |
+|          |         | 2.(Colloquial) Said about someone who is uncivilized, lacks manners         | "Uncivilized"                        |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Nrī      | n.      | 1. Speed                                                                    | "Speed"                              |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Nrui     | adj.    | 1. Quick, speedy, that moves in a quick manner                              | "Swift", "Quick", "Fast", "Rapid"    |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Nxālu    | n.      | 1. A girl or women                                                          | "Girl", "Woman", "Female"            |
+|          |         | 2. By extension, a female from any species                                  |                                      |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Okikxiu  | n.      | 1. (Litteraly small man) A young boy, a child                               | "Kid", "Young man", "Child"          |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Okinxālu | n.      | 1. (Litteraly small man) A young boy, a child                               | "Kid", "Young man", "Child"          |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Okui     | adj.    | 1. Small, of small size, opposite of big                                    | "Small"                              |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Su       | adj.    | 1. (When used alone) No                                                     | "No", "Do/Does not"                  |
+|          |         | 2. (When used in front of a verb) Indicates negation, makes a verb negative |                                      |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Sunakui  | adj.    | 1. Non savage, domestiquated                                                | "Domestiquated", "Good manered",     |
+|          |         | 2. (Colloquial) Civilized, good mannered                                    | "Civilized"                          |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Tikīs    | v.      | 1. To have something, to be in possesion of it, whether literal or not      | "To have", "To own"                  |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| xhā      | prep.   | 1. To                                                                       | "To"                                 |
+|          |         | Ex: Yī ibiz xhā ha ibo. (I go to the water)                                 |                                      |
+|          |         |                                                                             |                                      |
+|----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
