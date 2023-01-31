@@ -113,7 +113,7 @@ All derived adjectives (from the nouns) end in -ui. -ui is thus reserved for the
 | *Past*         | -az      |
 |----------------+----------|
 
-|---------------+----------|
+
 | *Verbal mood* | *Suffix* |
 |---------------+----------|
 | *Infinitive*  | -īs      |
