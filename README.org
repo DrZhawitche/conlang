@@ -68,7 +68,7 @@ As well as their longer counterparts:
 /I have decided to make the distinction between the two types of vowels, so there is no ambiguity concerning the pronounciation of a word./
 
 *** 1.2 Consonants
-[name of language] has 17 consonants, which are:
+[name of language] has 18 consonants, which are:
 1. b [b]
 2. d [d]
 3. f [f]
@@ -79,13 +79,14 @@ As well as their longer counterparts:
 8. l [l]
 9. m [m]
 10. n [n]
-11. r [ɾ]
-12. s [s]
-13. t [t]
-14. w [w]
-15. x [ʃ]
-16. y [j] (side note: can *never* be used as a vowel)
-17. z [z]
+11. p [p]
+12. r [ɾ]
+13. s [s]
+14. t [t]
+15. w [w]
+16. x [ʃ]
+17. y [j] (side note: can *never* be used as a vowel)
+18. z [z]
 [[images/pulmonic-consonants-chart.png]]
 [[images/other-consonants-chart.png]]
 
@@ -208,7 +209,11 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 
 | *Word* | *Class* | *Definition*                                                           | *Equivalent(s)*                   |
 |--------+---------+------------------------------------------------------------------------+-----------------------------------|
-| Goprīs | v.      | 1. To eat, to consumme food                                            | "To eat", "To devoure"            |
+| Dirīs  | v.      | 1. Related to doing an action                                          |                                   |
+|        |         | 2. Related to making, or fabricating something                         |                                   |
+|        |         |                                                                        |                                   |
+|--------+---------+------------------------------------------------------------------------+-----------------------------------|
+| Goprīs | v.      | 1. To eat, to consume food                                             | "To eat", "To devoure"            |
 |        |         |                                                                        |                                   |
 |--------+---------+------------------------------------------------------------------------+-----------------------------------|
 | Hatīs  | v.      | 1. To have strong affection towards something or someone, to hold dear | "To like", "To love", "To enjoy", |
@@ -230,51 +235,55 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 *** 4.4 Roots
 
 
-| *Root* | *Definition*                                                |
-|--------+-------------------------------------------------------------|
-| Dani   | 1. Related to a place, an area                              |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Gopri  | 1. Related to eating                                        |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Hati   | 1. Related to love                                          |
-|        | 2. Related to liking something or someone                   |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Ibi    | 1. Related to water                                         |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Kli    | 1. Related to being                                         |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Kxi    | 1. Related to boy, man, or masculinity in general           |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Naki   | 1. Related to animals                                       |
-|        | 2. Related to being savage, feral                           |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Nri    | 1. Related to speed, swiftness                              |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Nxāli  | 1. Related to girl, woman or femininity in general          |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Oki    | 1. Related to small, opposite of big                        |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Rūxi   | 1. Related to tree                                          |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Su     | 1. (When used individually) No                              |
-|        | 2. Related to negation, can be used to make a verb negative |
-|        | 3. (As an affix) Equivalent to something like "un-"         |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
-| Tiki   | 1. Related to having, being in possesion of something       |
-|        |                                                             |
-|--------+-------------------------------------------------------------|
+| *Root* | *Definition*                                                                    |
+|--------+---------------------------------------------------------------------------------|
+| Dani   | 1. Related to a place, an area                                                  |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Diri   | 1. Related to doing an action                                                   |
+|        | 2. Related to making, or fabricating something                                  |
+|        | (Can be added as a affix -dir at the end of a word to indicated an action done) |
+|--------+---------------------------------------------------------------------------------|
+| Gopri  | 1. Related to eating                                                            |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Hati   | 1. Related to love                                                              |
+|        | 2. Related to liking something or someone                                       |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Ibi    | 1. Related to water                                                             |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Kli    | 1. Related to being                                                             |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Kxi    | 1. Related to boy, man, or masculinity in general                               |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Naki   | 1. Related to animals                                                           |
+|        | 2. Related to being savage, feral                                               |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Nri    | 1. Related to speed, swiftness                                                  |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Nxāli  | 1. Related to girl, woman or femininity in general                              |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Oki    | 1. Related to small, opposite of big                                            |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Rūxi   | 1. Related to tree                                                              |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Su     | 1. (When used individually) No                                                  |
+|        | 2. Related to negation, can be used to make a verb negative                     |
+|        | 3. (As an affix) Equivalent to something like "un-"                             |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
+| Tiki   | 1. Related to having, being in possesion of something                           |
+|        |                                                                                 |
+|--------+---------------------------------------------------------------------------------|
 
 
 *** 4.5 Prepositions
@@ -298,10 +307,14 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 |           |         | Ex : Yī kliz ax ha "Planet earth" (I come from Planet Earth)                |                                      |
 |           |         |                                                                             |                                      |
 |-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Dirīs     | v.      | 1.To do an action                                                           | "To do", "To make", "To create",     |
+|           |         | 2.To make, or fabricate something                                           | "To fabricate"                       |
+|           |         |                                                                             |                                      |
+|-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
 | Dana      | n.      | 1. A place, an area                                                         | "Place", "Area"                      |
 |           |         |                                                                             |                                      |
 |-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Goprīs    | v.      | 1. To eat, to consumme food                                                 | "To eat", "To devoure"               |
+| Goprīs    | v.      | 1. To eat, to consume food                                                  | "To eat", "To devoure"               |
 |           |         |                                                                             |                                      |
 |-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
 | Goprui    | n.      | 1. Food, a meal                                                             | "Food", "Meal"                       |
