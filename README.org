@@ -127,7 +127,7 @@ Plurals (for both nouns and adjectives) is done by adding an "/n/" at the end. "
 *** 2.3 Possesion
 
 Unlike English, possesion isn't indicated by using an article. Instead, the suffix -ō (with the dash - ) is added followed by the specific pronoun or name (also attached by a dash - ).
-Ex: Ibonakū-ō-Kxiu /(The fish of the man)/
+Ex: Ibinakū-ō-Kxiu /(The fish of the man)/
 
 Note that the article "/Ha/" wasn't employed, this is because words are by default definite when there is possesion, but it can still be used, and both ways are correct.
 
@@ -136,7 +136,7 @@ In [language name], nouns are by default indefinite. To make them definite, the 
 
 *** 2.5 Word order
 In order to keep this language relatively easy to learn and grasp, I choose the word order to be S-V-O (subject-verb-object).
-Ex: Ha drui Nakū gopriz Ibonakūn. /(The quick animal eats fish)/
+Ex: Ha drui Nakū gopriz Ibinakūn. /(The quick animal eats fish)/
 
 
 *** 2.6 Capitalization
@@ -242,7 +242,7 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 |        | 2. Related to liking something or someone                   |
 |        |                                                             |
 |--------+-------------------------------------------------------------|
-| Ibo    | 1. Related to water                                         |
+| Ibi    | 1. Related to water                                         |
 |        |                                                             |
 |--------+-------------------------------------------------------------|
 | Kli    | 1. Related to being                                         |
@@ -262,6 +262,9 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 |        |                                                             |
 |--------+-------------------------------------------------------------|
 | Oki    | 1. Related to small, opposite of big                        |
+|        |                                                             |
+|--------+-------------------------------------------------------------|
+| Rūxi   | 1. Related to tree                                          |
 |        |                                                             |
 |--------+-------------------------------------------------------------|
 | Su     | 1. (When used individually) No                              |
@@ -332,7 +335,7 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 | Ibidana   | n.      | 1. (Literal "Water place") A lake                                           | "Lake"                               |
 |           |         |                                                                             |                                      |
 |-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Ibonakū   | n.      | 1.(Literally water animal) A fish                                           | "Fish"                               |
+| Ibinakū   | n.      | 1.(Literally water animal) A fish                                           | "Fish"                               |
 |           |         | 2. By extension, anything that lives in the water                           |                                      |
 |           |         |                                                                             |                                      |
 |-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
@@ -377,6 +380,12 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 |           |         |                                                                             |                                      |
 |-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
 | Okui      | adj.    | 1. Small, of small size, opposite of big                                    | "Small"                              |
+|           |         |                                                                             |                                      |
+|-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Rūxidana  | n.      | 1. (Literally tree place) A forest, or any piece of land with a tree growth | "Forest"                             |
+|           |         |                                                                             |                                      |
+|-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
+| Rūxu      | n.      | 1. Tree                                                                     | "Tree"                               |
 |           |         |                                                                             |                                      |
 |-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
 | Su        | adj.    | 1. (When used alone) No                                                     | "No", "Do/Does not"                  |
