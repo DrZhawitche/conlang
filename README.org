@@ -8,6 +8,7 @@
 2. [X] Add an example in [[2.4 Word order]]
 3. [X] Add an example in [[2.3 Defineteness]]
 
+* Table of contents :toc_6:
 
 * Table of contents
 - [[#license][License]]
