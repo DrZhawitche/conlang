@@ -316,7 +316,7 @@ Note: Because verb conjugation is very simple and only depends on the time/mood,
 | Goprīs    | v.      | 1. To eat, to consume food                                                  | "To eat", "To devoure"               |
 |           |         |                                                                             |                                      |
 |-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
-| Goprui    | n.      | 1. Food, a meal                                                             | "Food", "Meal"                       |
+| Goprū     | n.      | 1. Food, a meal                                                             | "Food", "Meal"                       |
 |           |         |                                                                             |                                      |
 |-----------+---------+-----------------------------------------------------------------------------+--------------------------------------|
 | Goprui    | adj.    | 1. Hungry, wanting to eat                                                   | "Hungry", "Desirous", "Avid"         |
